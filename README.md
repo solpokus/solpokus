@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on ... Backend (Spring boot and GO )
 - 🌱 I’m currently learning ... Machine Learning , Natural Language Processing and Artificial Intelligence
-- 📫 How to reach me: adianjuanr@gmail.com
+- 📫 How to reach me: juanrhamadhan@gmail.com || adianjuanr@gmail.com
 
 <!--
 **solpokus/solpokus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
