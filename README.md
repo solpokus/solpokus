@@ -17,8 +17,34 @@ I have been learning to build software for 9years. I started with HTML, but have
 
 
 <p align="left">
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="profile/springboot-colored.svg" width="36" height="36" alt="Spring" /></a>
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="profile/go-colored.svg" width="36" height="36" alt="Go" /></a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="profile/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
 </p>
+
+<p align="left">
+<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="profile/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="profile/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="profile/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="profile/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="profile/redis-colored.svg" width="36" height="36" alt="Redis" /></a>
+</p>
+
+<p align="left">
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="profile/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="profile/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
+<a href="https://aws.amazon.com/api-gateway/" target="_blank" rel="noreferrer"><img src="profile/aws-api-gateway-colored.svg" width="36" height="36" alt="Amazon Web Services Gateway" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="profile/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="profile/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="profile/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
+</p>
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="profile/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="profile/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="profile/react-colored.svg" width="36" height="36" alt="React" /></a>
+</p>
+
 
 
 ### Socials
