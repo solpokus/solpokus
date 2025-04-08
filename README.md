@@ -61,4 +61,4 @@ I have been learning to build software for 9years. I started with HTML, but have
 
 <!-- <a href="https://github.com/solpokus" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solpokus&langs_count=4&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" /></a> -->
 
-<a href="https://github.com/solpokus"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solpokus&theme=dark&hide=html,css,cmake&layout=compact&langs_count=4&bg_color=101010&hide_title=true"></a>
+<a href="https://github.com/solpokus"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solpokus&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
