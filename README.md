@@ -11,7 +11,7 @@ I have been learning to build software for 9years. I started with HTML, but have
 * 🚀  I'm working on [ATI](http://www.atibusinessgroup.com/)
 * 🔭  I’m currently working on ... Backend (Spring boot and GO )
 * 🧠  I'm learning Machine Learning , Natural Language Processing and Artificial Intelligence
-* 🤝  I'm open to collaborating on Ticketing, Global Distribution System (GDS), E-Commerce
+* 🤝  I'm open to collaborating on Ticketing, Global Distribution System (GDS), E-Commerce, Cash Management System
 
 ### Skills
 
