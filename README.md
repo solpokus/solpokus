@@ -20,6 +20,9 @@ I have been learning to build software for 9years. I started with HTML, but have
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="profile/springboot-colored.svg" width="36" height="36" alt="Spring" /></a>
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="profile/go-colored.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="profile/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="profile/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="profile/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="profile/react-colored.svg" width="36" height="36" alt="React" /></a>
 </p>
 
 <p>
@@ -38,13 +41,6 @@ I have been learning to build software for 9years. I started with HTML, but have
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="profile/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="profile/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
 </p>
-
-<p>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="profile/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="profile/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="profile/react-colored.svg" width="36" height="36" alt="React" /></a>
-</p>
-
 
 
 ### Socials
