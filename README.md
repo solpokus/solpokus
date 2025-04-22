@@ -26,7 +26,7 @@ I have been learning to build software for 9years. I started with HTML, but have
 </p>
 
 <p>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="profile/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="profile/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="profile/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="profile/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="profile/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
