@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Engineer
 ----------------
 
-I have been learning to build software for 9years. I started with HTML, but have really found a passion for backend development.
+I have been doing to build software for 9years. I started with HTML, but have really found a passion for backend development.
 
 * 🌍  I'm based in Jakarta , Indonesia
 * ✉️  You can contact me at [juanrhamadhan@gmail.com](mailto:juanrhamadhan@gmail.com) or [adianjuanr@gmail.com](mailto:adianjuanr@gmail.com)
@@ -58,3 +58,8 @@ I have been learning to build software for 9years. I started with HTML, but have
 <!-- <a href="https://github.com/solpokus" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solpokus&langs_count=4&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" /></a> -->
 
 <a href="https://github.com/solpokus"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solpokus&theme=dark&hide=html,css,cmake&layout=compact&langs_count=4&bg_color=101010&hide_title=true"></a>
+
+
+### About Me
+I am a dedicated and detail-oriented Software Engineer with a passion for building scalable and efficient software solutions. With experience in developing applications using modern programming languages and frameworks, I enjoy solving complex problems and continuously learning new technologies. I thrive in collaborative environments and take pride in writing clean, maintainable code that drives real-world impact.
+As a Backend Software Engineer with a strong foundation in building reliable, scalable, and high-performance backend systems. I specialize in designing RESTful APIs, working with distributed systems, and optimizing database performance. My experience includes working with technologies like Java, Go, Kotlin and cloud platforms such as Google Cloud Platform (GCP). I’m passionate about clean architecture, automation, and continuous improvement, and I thrive in fast-paced, collaborative environments where I can help build infrastructure that powers great user experiences.
