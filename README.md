@@ -55,7 +55,7 @@ I have been doing to build software for 9years. I started with HTML, but have re
 
 <a href="http://www.github.com/solpokus"><img src="https://github-readme-streak-stats.herokuapp.com/?user=solpokus&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<!-- <a href="https://github.com/solpokus" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solpokus&langs_count=4&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" /></a> -->
+<!-- <a href="https://github.com/solpokus" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solpokus&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" /></a> -->
 
 <a href="https://github.com/solpokus"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solpokus&theme=dark&hide=html,css,cmake&layout=compact&langs_count=4&bg_color=101010&hide_title=true"></a>
 
