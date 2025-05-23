@@ -48,7 +48,8 @@ I have been doing to build software for 9years. I started with HTML, but have re
 
 <p align="left"> 
 <a href="https://www.github.com/solpokus" target="_blank" rel="noreferrer"><img src="profile/github.svg" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/adian-juan-r" target="_blank" rel="noreferrer"><img src="profile/linkedin.svg" width="32" height="32" /></a></p>
+<a href="https://www.linkedin.com/in/adian-juan-r" target="_blank" rel="noreferrer"><img src="profile/linkedin.svg" width="32" height="32" /></a>
+<a href="https://huggingface.co/juanrha" target="_blank" rel="noreferrer"><img src="profile/hf-logo-with-title.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
