@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Engineer
 ----------------
 
-I have been doing to build software for 9years. I started with HTML, but have really found a passion for backend development.
+I have been doing to build software for 9years. I started with HTML, but have really found a passion for backend development. Passionate about clean code, test-driven development, and system design. Committed to driving global impact through innovative software
 
 * 🌍  I'm based in Jakarta , Indonesia
 * ✉️  You can contact me at [juanrhamadhan@gmail.com](mailto:juanrhamadhan@gmail.com) or [adianjuanr@gmail.com](mailto:adianjuanr@gmail.com)
